@@ -1,5 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
-import { getAnrScript } from 'utils/anr'
+import { getAnrScript } from "../utils/anr"
 
 class MyDocument extends Document {
   render() {
